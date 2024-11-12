@@ -1,6 +1,6 @@
 # Impact_Company
 
-A new Flutter project.
+Welcome, thank you for visiting. I hope this project is useful. The idea of ​​this project is to manage full control of the centers. In addition to the subject of permissions for users. Making reservations and many other operations. See the pictures below to see what I mean.
 
 ## Getting Started
 
